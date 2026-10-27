@@ -1,0 +1,9 @@
+# Dipendenze ricavate dagli import; versioni non certificate né congelate.
+-r requirements-generation.txt
+tensorflow
+astropy
+scikit-learn
+tqdm
+matplotlib
+h5py
+# SPECULA e calibrazioni si installano separatamente nell'ambiente scientifico.
